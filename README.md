@@ -1,4 +1,5 @@
 # Vue-2.0-shoppingCart
+在线demo: https://lt1231.github.io/vue2.0-shoppingCart/cart.html#
 
 ## 案例组成部分
 - 创建Vue实例
